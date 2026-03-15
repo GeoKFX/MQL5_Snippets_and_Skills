@@ -1,4 +1,4 @@
-# База сниппетов: mq5-snippets
+# mq5-snippets
 
 ### highestArrayMT5
 MT5: Finds the highest value in the array.
