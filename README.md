@@ -1,15 +1,10 @@
----
-
-
-```markdown
-
 # MQL5 Snippets & Agentic Skills Library
 
 Welcome to the central MQL5 knowledge base designed specifically for **AI-assisted algorithmic trading development**.
 
 This repository serves as a strict syntactical and algorithmic reference to prevent AI hallucinations, enforce correct MQL5 architecture, and ensure highly efficient, production-ready code generation.
 
-## 🧬 Repository Structure
+## 📁 Repository Structure
 
 The knowledge base is divided into two primary categories: **Skills** (AI operational directives and patterns) and **Snippets** (Raw code templates and logic).
 
