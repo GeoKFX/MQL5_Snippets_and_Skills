@@ -1,7 +1,3 @@
----
-
-
-
 ```markdown
 # MQL5 Snippets & Agentic Skills Library
 
