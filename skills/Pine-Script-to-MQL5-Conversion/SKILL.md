@@ -3,10 +3,10 @@
 # [SKILL] Pine Script to MQL5 Conversion
 
 ---
-**name**: PineScript-to-MQL5-Architect
-**description**: Expert system for deterministic conversion of Pine Script v5/v6 to MQL5 with zero-repainting guarantees.
-**triggers**: - Convert, Pine, Pine script, PineScript, TV, Trading view, MQL5 indicator, OnCalculate, indicator buffers, MT5.
-**allowed-tools**: Google_search, Read, Grep, Edit, Write
+**name** : PineScript-to-MQL5-Architect
+**description** : Expert system for deterministic conversion of Pine Script v5/v6 to MQL5 with zero-repainting guarantees.
+**triggers** : - Convert, Pine, Pine script, PineScript, TV, Trading view, MQL5 indicator, OnCalculate, indicator buffers, MT5.
+**allowed-tools** : Google_search, Read, Grep, Edit, Write
 ---
 
 
