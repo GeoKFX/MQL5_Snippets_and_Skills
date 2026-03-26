@@ -9,6 +9,7 @@
 **allowed-tools**: Google_search, Read, Grep, Edit, Write
 ---
 
+
 ## TABLE OF CONTENTS
 
 1. [CORE_EXECUTION_STATE](https://github.com/GeoKFX/MQL5_Snippets_and_Skills/blob/main/skills/Pine-Script-to-MQL5-Conversion/SKILL.md#-core_execution_state)
