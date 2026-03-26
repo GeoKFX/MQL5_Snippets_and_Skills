@@ -1,6 +1,5 @@
 
 
-```markdown
 # [SKILL] Pine Script to MQL5 Conversion
 
 ---
@@ -12,12 +11,14 @@
 
 ## TABLE OF CONTENTS
 
-1. [CORE_EXECUTION_STATE](#core_execution_state)
-2. [DATA_STRUCTURE_MAPPING](#data_structure_mapping)
-3. [MTF_SECURITY_ALIGNMENT](#mtf_security_alignment)
-4. [STRATEGY_EA_PARITY](#strategy_ea_parity)
-5. [SILENT_TRAPS_CHECKLIST](#silent_traps_checklist)
-6. [REFERENCE_DOCUMENTATION](#reference_documentation)
+1. [CORE_EXECUTION_STATE](https://github.com/GeoKFX/MQL5_Snippets_and_Skills/blob/main/skills/Pine-Script-to-MQL5-Conversion/SKILL.md#-core_execution_state)
+2. [DATA_STRUCTURE_MAPPING](https://github.com/GeoKFX/MQL5_Snippets_and_Skills/blob/main/skills/Pine-Script-to-MQL5-Conversion/SKILL.md#-data_structure_mapping)
+3. [MTF_SECURITY_ALIGNMENT](https://github.com/GeoKFX/MQL5_Snippets_and_Skills/blob/main/skills/Pine-Script-to-MQL5-Conversion/SKILL.md#-mtf_security_alignment)
+4. [STRATEGY_EA_PARITY](https://github.com/GeoKFX/MQL5_Snippets_and_Skills/blob/main/skills/Pine-Script-to-MQL5-Conversion/SKILL.md#-strategy_ea_parity)
+5. [SILENT_TRAPS_CHECKLIST](https://github.com/GeoKFX/MQL5_Snippets_and_Skills/blob/main/skills/Pine-Script-to-MQL5-Conversion/SKILL.md#-silent_traps_checklist)
+6. [REFERENCE_DOCUMENTATION](https://github.com/GeoKFX/MQL5_Snippets_and_Skills/blob/main/skills/Pine-Script-to-MQL5-Conversion/SKILL.md#-reference_documentation)
+
+---
 
 ---
 
